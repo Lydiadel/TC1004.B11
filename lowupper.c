@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <stdio.h>
 int main(){
-    char c;
+    char c; 
     char upper;
     int n; //Quantity of bits
     do {
